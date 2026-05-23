@@ -158,10 +158,3 @@ TensorFlow is popular in deep learning because it is powerful, widely used, and 
 
 Deep learning has many real-world applications such as face recognition, speech recognition, self-driving cars, medical image analysis, spam detection, language translation, and recommendation systems. Our MNIST lab is a simple example of how deep learning can recognize handwritten digits, which is related to real uses like reading zip codes, checks, and forms.
 
----
-
-## Notes
-
-- Use lowercase activation names in Keras: `'relu'`, `'sigmoid'`, `'softmax'`
-- MNIST pixel values should be normalized to the range 0–1 (Step 14)
-- Training the DNN and CNN may take a few minutes depending on your computer
