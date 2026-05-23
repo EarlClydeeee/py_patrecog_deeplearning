@@ -30,30 +30,6 @@ pip install numpy matplotlib tensorflow
 
 ---
 
-## How to Run
-
-1. Open `neural_networks.ipynb` in Jupyter Notebook, VS Code, or Cursor.
-2. Run the cells in order from Part 1 to Part 9.
-3. Read the exercise answers at the end of the notebook after completing the lab steps.
-
----
-
-## Laboratory Parts
-
-| Part | Topic |
-|------|-------|
-| Part 1 | Import NumPy and Matplotlib |
-| Part 2 | Single artificial neuron (inputs, weights, bias) |
-| Part 3 | Activation functions (Sigmoid and ReLU) |
-| Part 4 | Simple neural network with a hidden layer |
-| Part 5 | Loss function (Mean Squared Error) |
-| Part 6 | Introduction to TensorFlow and Keras |
-| Part 7 | MNIST dataset loading and preprocessing |
-| Part 8 | Deep Neural Network (DNN) for digit classification |
-| Part 9 | Convolutional Neural Network (CNN) |
-
----
-
 ## Exercises
 
 ### Exercise 1 – Modify Hidden Layer Neurons (128 → 256)
